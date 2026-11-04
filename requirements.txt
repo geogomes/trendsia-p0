@@ -1,0 +1,4 @@
+# dependências do projeto (fixar versões ao fechar cada nível)
+python-dotenv>=1.0
+requests>=2.32
+pytest>=8.0
